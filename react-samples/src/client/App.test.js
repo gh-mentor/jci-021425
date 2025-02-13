@@ -11,7 +11,7 @@ test('renders welcome message and navigation links', () => {
   const welcomeElement = getByText(/welcome to my web app/i);
   expect(welcomeElement).toBeInTheDocument();
 
-  // Verify the links
+  // Verify the links to the counter, todo list, and user profile pages
   const counterLink = getByText(/counter/i);
   expect(counterLink).toBeInTheDocument();
 

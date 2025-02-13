@@ -1,5 +1,13 @@
 /*
-Use Copilot to improve code coverage. Ensure that the OrderProcessor class is structured in a way that makes it easier to test all possible branches and exceptions. This can be achieved by refactoring the code to separate concerns and reduce complexity.
+Use Copilot to improve code coverage.
+
+Ensure that the OrderProcessor class is structured in a way that makes it easier to test all possible branches and exceptions. 
+Goal:
+Refactor the code to separate concerns and reduce complexity.
+Ensure that all branches and exceptions are covered by tests.
+Do not change the behavior of the code.
+
+Create tests to implement the changes you make to the code.
 */
 using System;
 

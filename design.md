@@ -1,6 +1,6 @@
-I am a novice programmer QA profesional and would like a brief overview of the software development life cycle and how it can be applied to a project.
+I am a novice QA profesional and would like a brief overview of the software development life cycle and the role of QA in each phase.
 
-I am a QA profesional and would like a detailed overview of the areas of Software Quality Assurance that I should focus on to improve my skills.
+I am an experienced QA profesional and would like a detailed overview of the areas of Software Quality Assurance that I should focus on to improve my skills.
 
 I am leading a team of developers on a high visibility project. Code quality is essential, adherence to SOLID principles must be enforced. What are the recommended procedures I shiuld set forth to meet this objective?
 
