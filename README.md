@@ -6,7 +6,7 @@ This document describes the training session 'GitHub Copilot for QA Professional
 
 ## Overview
 
-This 1-hour session will provide attendees with an overview of GitHub Copilot. The focus will be to use GitHub Copilot to generate test cases and test data. Attendees will learn how to use GitHub Copilot to generate test cases and test data for various scenarios.
+This 1 - 2 hour session will provide attendees with an overview of GitHub Copilot. The focus will be to use GitHub Copilot to and GitHub Copilot chat to improve the productivity of QA professionals. Attendees will learn how to use GitHub Copilot to generate test cases and test data for various scenarios.
 
 The session will be conducted by Andrew Scoppa, andrew.scoppa@atmosera.com. His GitHub handle is andrew-scoppa.
 
